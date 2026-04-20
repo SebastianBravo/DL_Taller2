@@ -1,0 +1,18 @@
+{
+  "n_total_images": 6348,
+  "n_classes": 10,
+  "train_size": 5078,
+  "test_size": 1270,
+  "image_dim_summary": {
+    "n_muestras_medidas": 500,
+    "ancho_min": 224,
+    "ancho_max": 224,
+    "ancho_promedio": 224.0,
+    "alto_min": 224,
+    "alto_max": 224,
+    "alto_promedio": 224.0,
+    "modos_detectados": {
+      "RGB": 500
+    }
+  }
+}
